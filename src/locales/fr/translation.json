@@ -1,0 +1,19 @@
+{
+    "app": {
+      "welcome": "Bienvenue au Sommet des PDG 2024",
+      "theme": "Perspective des Leaders : Croissance Durable pour l'Industrie Mondiale de l'Assurance",
+      "register": "S'inscrire",
+      "eventDetails": "Détails de l'Événement",
+      "review": "Laisser un Avis",
+      "sponsors": "Nos Sponsors",
+      "language": "Langue"
+    },
+    "profile": {
+      "name": "Nom",
+      "email": "Courriel",
+      "company": "Entreprise",
+      "salutation": "Salutation",
+      "phone": "Téléphone"
+    }
+  }
+  

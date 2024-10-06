@@ -1,0 +1,19 @@
+{
+    "app": {
+      "welcome": "Welcome to the CEOs Summit 2024",
+      "theme": "Leaders' Perspective: Sustainable Growth for the Global Insurance Industry",
+      "register": "Register",
+      "eventDetails": "Event Details",
+      "review": "Leave a Review",
+      "sponsors": "Our Sponsors",
+      "language": "Language"
+    },
+    "profile": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "salutation": "Salutation",
+      "phone": "Phone"
+    }
+  }
+  
